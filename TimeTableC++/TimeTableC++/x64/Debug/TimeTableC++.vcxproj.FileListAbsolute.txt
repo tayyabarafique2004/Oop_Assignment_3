@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\TimeTableC++\TimeTableC++\x64\Debug\TimeTableC++.vcxproj.AssemblyReference.cache
+C:\Users\hp\source\repos\TimeTableC++\TimeTableC++\x64\Debug\TimeTableC.myLoginForm.resources
+C:\Users\hp\source\repos\TimeTableC++\TimeTableC++\x64\Debug\TimeTableC++.vcxproj.GenerateResource.cache
+C:\Users\hp\source\repos\TimeTableC++\TimeTableC++\x64\Debug\TimeTableC.StudentAdvisorForm.resources
+C:\Users\hp\source\repos\TimeTableC++\TimeTableC++\x64\Debug\TimeTableC.TeachersCRUD.resources
+C:\Users\hp\source\repos\TimeTableC++\TimeTableC++\x64\Debug\TimeTableC.CoursesCRUD.resources
+C:\Users\hp\source\repos\TimeTableC++\TimeTableC++\x64\Debug\TimeTableC.makeTimeTableForm.resources
+C:\Users\hp\source\repos\TimeTableC++\TimeTableC++\x64\Debug\TimeTableC.DiaplayAvailableTimeslots.resources
+C:\Users\hp\source\repos\TimeTableC++\TimeTableC++\x64\Debug\TimeTableC.StudentReport.resources
